@@ -1,6 +1,8 @@
 ### Hi there, I'm Berke 👋
 
-🔭 I'm currently working on blockchain technologies, specializing in developing smart contracts and decentralized applications (dApps).
+🔭 I'm Berke, an experienced blockchain developer passionate about innovative and secure solutions. Specialize in smart contracts and decentralized applications.
+
+Currently working at DappLabs and available for freelance web3 projects.
 
 #### Current Tech Stack:
 - **Blockchain**: Solidity, Ethers.js, Wagmi, Hardhat 
