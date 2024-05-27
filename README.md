@@ -1,6 +1,6 @@
 ### Hi there, I'm Berke 👋
 
-🔭 I'm Berke, an experienced blockchain developer passionate about innovative and secure solutions. Specialize in smart contracts and decentralized applications.
+🔭 An experienced blockchain developer passionate about innovative and secure solutions. Specialize in smart contracts and decentralized applications.
 
 Currently working at DappLabs and available for freelance web3 projects.
 
