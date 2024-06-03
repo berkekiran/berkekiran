@@ -5,7 +5,8 @@
 Currently available for freelance web3 projects.
 
 #### Current Tech Stack:
-- **Blockchain**: Solidity, Ethers.js, Wagmi, Hardhat 
+- **Smart Contract**: Solidity, Rust
+- **Blockchain Tools**: Ethers.js, Wagmi, Hardhat, CosmWasm, CosmosKit, CosmJS
 - **Unit & Security Testing**: Mocha, Chai, Slither
 - **Front-end**: React.js, Next.js, TypeScript
 - **Back-end**: Node.js, Express.js
