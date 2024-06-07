@@ -2,7 +2,7 @@
 
 🔭 An experienced blockchain developer passionate about innovative and secure solutions. Specialize in smart contracts and decentralized applications.
 
-Currently available for freelance web3 projects.
+Currently available for freelance web3 projects. - Solidity & Rust 🦀
 
 #### Current Tech Stack:
 - **Smart Contract**: Solidity, Rust
