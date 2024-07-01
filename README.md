@@ -16,8 +16,6 @@ Currently available for freelance web3 projects. - Solidity & Rust 🦀
 
 💬 Ask me about blockchain, smart contract challenges, and game development - I love to share my knowledge and learn from others!
 
-📫 How to reach me: [twitter.com/berke_kiran](https://twitter.com/berke_kiran)
-
 📄 Know about my experiences: [linkedin.com/in/berkekiran](https://www.linkedin.com/in/berkekiran/)
 
 🌐 Visit my portfolio: [berkekiran.com](https://berkekiran.com/)
