@@ -1,21 +1,9 @@
 ### Hi there, I'm Berke 👋
 
-🔭 An experienced blockchain developer passionate about innovative and secure solutions. Specialize in smart contracts and decentralized applications.
+Your friendly neighborhood blockchain wizard ⚡️ Known as 'One Man Army' & 'Dozer' - probably because I get things done ✨. Built everything from L2 protocols to launchpads, DeFi ecosystems & Web3 games. These days, I'm diving deep into AI agents on blockchain, because who doesn't want smart robots managing their DeFi? 
 
-Currently available for freelance web3 projects. - Solidity & Rust 🦀
+Hit me up if you want to build something epic!
 
-#### Current Tech Stack:
-- **Smart Contract**: Solidity, Rust
-- **Blockchain Tools**: Ethers.js, Wagmi, Hardhat, CosmWasm, CosmosKit, CosmJS
-- **Unit & Security Testing**: Mocha, Chai, Slither
-- **Front-end**: React.js, Next.js, TypeScript
-- **Back-end**: Node.js, Express.js
-- **Database**: MongoDB, MySQL, (ORM) Prisma
+📄 Linkedin: [linkedin.com/in/berkekiran](https://www.linkedin.com/in/berkekiran/)
 
-🌱 Passionate about smart contract development, I’m always exploring new trends in blockchain and web development.
-
-💬 Ask me about blockchain, smart contract challenges, and game development - I love to share my knowledge and learn from others!
-
-📄 Know about my experiences: [linkedin.com/in/berkekiran](https://www.linkedin.com/in/berkekiran/)
-
-🌐 Visit my portfolio: [berkekiran.com](https://berkekiran.com/)
+🌐 Website: [berkekiran.com](https://berkekiran.com/)
