@@ -1,11 +1,10 @@
 ### Hi there, I'm Berke 👋
 
-Your friendly neighborhood blockchain wizard ⚡️ \
-Known as 'One Man Army' & 'Dozer' - probably because I get things done ✨. \
-Built everything from L2 protocols to launchpads, DeFi ecosystems & Web3 games. \
-These days, I'm diving deep into AI agents on blockchain, because who doesn't want smart robots managing their DeFi? 
+I'm a Full-Stack Engineer working on Blockchain & AI Agents specializing in decentralized applications, smart contracts, and AI agents. I've created many AI agents for news analysis, legal automation, social engagement, and DeFi operations (DeFAI), enhancing blockchain utility through intelligent automation. On the DeFi side, I've developed a diverse range of products including launchpads, DEX aggregators, NaaS (Node-as-a-Service) applications, decentralized exchanges, and various other DeFi solutions across multiple blockchain ecosystems.
 
-Hit me up if you want to build something epic!
+I'm constantly exploring new technologies to build more efficient, secure, and user-friendly applications. Feel free to reach out if you're interested in collaborating on blockchain or AI agent projects or discussing the future of decentralized technology.
+
+Blockchain is The Matrix.
 
 📄 Linkedin: [linkedin.com/in/berkekiran](https://www.linkedin.com/in/berkekiran/)
 
